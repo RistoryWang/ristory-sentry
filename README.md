@@ -68,7 +68,7 @@ NOTICE to DEBUG   <CustomLevel name="NOTICE" intLevel="450" />
 VERBOSE to DEBUG  <CustomLevel name="VERBOSE" intLevel="550" />     
 ```
 
-### 1.0.7 `add ConnectionFactory`
+### 1.0.8 `add ConnectionFactory`
 
 * ConnectionFactory used to provide dbdatasource to log4j2
 * Notice config in ConnectionFactory cannot get from SpringF，because of log4j loaded before SpringF
